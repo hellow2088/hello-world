@@ -1,5 +1,5 @@
 # hello-world
 hello
 
-hello,am allen.
-Today is Friday.
+测试起点
+添加型号——添加电池——修改电池
